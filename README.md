@@ -1,0 +1,11 @@
+**TUBES Pemrosesan Paralel Kelompok 5 Topsis : IMPLEMENTASI METODE PARALEL TOPSIS UNTUK SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PRODUK TERBAIK PADA E-COMMERCE BERBASIS MULTI-KRITERIA
+**
+
+**Anggota KelompOK 5 :**
+1. Inaz Putri Kamila (F1D02410056)
+2. Baiq Febylia Eka Ningrum (F1D02410109)
+3. Istiqomah Virginia (F1D02410116)
+4. Mustafida (F1D02410126)
+
+**LINK VIDEO PRESENTASI :**
+https://drive.google.com/file/d/1lLsRHXeSZE25TpsJIA1gElcFJN-5LJ6J/view?usp=drivesdk
